@@ -1,4 +1,4 @@
-# 🤖 BotStatus
+# 🤖 Bot Status
 Updates Your Bot Status, Every {} Hours.
 
 ● [Pyrogram Version](https://github.com/AmineSoukara/BotStatus/tree/Pyrogram)
